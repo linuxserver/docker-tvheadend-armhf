@@ -151,6 +151,7 @@ You need to enable minimum advanced view level to see the picons options.
 
 ## Versions
 
++ **18.04.2017:** Use repo version of gnu-libiconv rather than compiling.
 + **09.04.2017:** Chain cpanm installs in one block and use --installdeps.
 + **07.02.2017:** Add variable to add additional runtime paramters.
 + **05.02.2017:** Update to Alpine 3.5 and change dvb-apps to only compile needed libs.
